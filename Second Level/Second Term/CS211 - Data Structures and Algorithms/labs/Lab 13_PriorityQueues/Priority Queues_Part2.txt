@@ -1,0 +1,39 @@
+/** Performs up-heap bubbling */
+  protected void upHeap(Position<Entry<K,V>> v) {
+    Position<Entry<K,V>> u;
+    while (!heap.isRoot(v)) {
+      u = heap.parent(v);
+      if (comp.compare(u.element().getKey(), v.element().getKey()) <= 0) break;
+      swap(u, v);
+      v = u;
+    }
+  }
+  /** Performs down-heap bubbling */
+  protected void downHeap(Position<Entry<K,V>> r) {
+    while (heap.isInternal(r)) {
+      Position<Entry<K,V>> s;		// the position of the smaller child
+      if (!heap.hasRight(r))
+	s = heap.left(r);
+      else if (comp.compare(heap.left(r).element().getKey(), 
+                            heap.right(r).element().getKey()) <=0)
+	s = heap.left(r);
+      else
+	s = heap.right(r);
+      if (comp.compare(s.element().getKey(), r.element().getKey()) < 0) {
+	swap(r, s);
+	r = s;
+      }
+      else 
+	break;
+    }
+  }
+  /** Swaps the entries of the two given positions */
+  protected void swap(Position<Entry<K,V>> x, Position<Entry<K,V>> y) {
+    Entry<K,V> temp = x.element();
+    heap.replace(x, y.element());
+    heap.replace(y, temp);
+  }
+  /** Text visualization for debugging purposes */
+  public String toString() {
+    return heap.toString();
+  }

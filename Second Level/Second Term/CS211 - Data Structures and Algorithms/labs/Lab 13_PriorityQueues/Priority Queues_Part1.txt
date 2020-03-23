@@ -1,0 +1,30 @@
+/** 
+  * Realization of a priority queue by means of a heap.  A complete
+  * binary tree realized by means of an array list is used to
+  * represent the heap.
+  */
+public class HeapPriorityQueue<K,V> implements PriorityQueue<K,V> {
+  protected CompleteBinaryTree<Entry<K,V>> heap;	// underlying heap
+  protected Comparator<K> comp;	// comparator for the keys
+  /** Inner class for heap entries. */
+  protected static class  MyEntry<K,V> implements Entry<K,V> {
+    protected K key;
+    protected V value;
+    public MyEntry(K k, V v) { key = k; value = v; }
+    public K getKey() { return key; }
+    public V getValue() { return value; }
+    public String toString() { return "(" + key  + "," + value + ")"; }
+  }
+  /** Creates an empty heap with the default comparator */ 
+  public HeapPriorityQueue() {  
+    heap = new ArrayListCompleteBinaryTree<Entry<K,V>>(); // use an array list
+    comp = new DefaultComparator<K>();     // use the default comparator
+  }
+  /** Creates an empty heap with the given comparator */
+  public HeapPriorityQueue(Comparator<K> c) {
+    heap = new ArrayListCompleteBinaryTree<Entry<K,V>>();
+    comp = c;
+  }
+  /** Returns the size of the heap */
+  public int size() { return heap.size(); } 
+  /** Returns whether the heap is empty */

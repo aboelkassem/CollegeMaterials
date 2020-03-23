@@ -1,0 +1,35 @@
+ /** Returns but does not remove an entry with minimum key */
+  public Entry<K,V> min() throws EmptyPriorityQueueException {
+    if (isEmpty()) 
+      throw new EmptyPriorityQueueException("Priority queue is empty");
+    return heap.root().element();
+  }
+  /** Inserts a key-value pair and returns the entry created */
+  public Entry<K,V> insert(K k, V x) throws InvalidKeyException {
+    checkKey(k);  // may throw an InvalidKeyException
+    Entry<K,V> entry = new MyEntry<K,V>(k,x);
+    upHeap(heap.add(entry));
+    return entry;
+  }
+  /** Removes and returns an entry with minimum key */
+  public Entry<K,V> removeMin() throws EmptyPriorityQueueException {
+    if (isEmpty()) 
+      throw new EmptyPriorityQueueException("Priority queue is empty");
+    Entry<K,V> min = heap.root().element();
+    if (size() == 1)
+      heap.remove();
+    else {
+      heap.replace(heap.root(), heap.remove());
+      downHeap(heap.root());
+    }
+    return min;
+  }
+  /** Determines whether a given key is valid */
+  protected void checkKey(K key) throws InvalidKeyException {
+    try {
+      comp.compare(key,key);
+    }
+    catch(Exception e) {
+      throw new InvalidKeyException("Invalid key");
+    }
+  }
