@@ -1,9 +1,7 @@
 
 # CollegeMaterials   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
- This Repository for my college's materials (computer science)
-
- Faculty of Computers & Artificial Intelligence - Beni Suef University
-
+ This Repository for my college's materials (computer science) Faculty of Computers & Artificial Intelligence - Beni Suef University
+ containing lectures, sections, projects, assignments
 ## First Level
 
 - First Term
