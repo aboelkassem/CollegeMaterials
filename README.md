@@ -90,6 +90,7 @@
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing/Lectures)
 			- [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing/Sections)
+			- [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing/Sheets)
 		- [CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS391%20-%20Software%20Engineering)
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS391%20-%20Software%20Engineering/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS391%20-%20Software%20Engineering/Lectures)
@@ -117,6 +118,8 @@
 			- [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Systems%20Department/IS412%20-%20Distributed%20and%20Object%20Databases/Sections)
 		- [IS441 - Quality Assurance of IS](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Systems%20Department/IS441%20-%20Quality%20Assurance%20of%20IS)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Systems%20Department/IS441%20-%20Quality%20Assurance%20of%20IS/Lectures)
+			- [IS341 - Decision Support Systems](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Systems%20Department/IS341%20-%20Decision%20Support%20Systems)
+			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Systems%20Department/IS341%20-%20Decision%20Support%20Systems/Lectures)
 
 	* Information Technology Department
 		- [CS351 - Computer Graphics](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS351%20-%20Computer%20Graphics)
@@ -126,6 +129,7 @@
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS352%20-%20Image%20Processing/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS352%20-%20Image%20Processing/Lectures)
 			- [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS352%20-%20Image%20Processing/Sections)
+			- [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS352%20-%20Image%20Processing/Sheets)
 		- [CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS391%20-%20Software%20Engineering)
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS391%20-%20Software%20Engineering/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Information%20Technology%20Department/CS391%20-%20Software%20Engineering/Lectures)
@@ -147,6 +151,7 @@
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS352%20-%20Image%20Processing/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS352%20-%20Image%20Processing/Lectures)
 			- [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS352%20-%20Image%20Processing/Sections)
+			- [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS352%20-%20Image%20Processing/Sheets)
 		- [CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS352%20-%20Image%20Processing)
 			- [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS391%20-%20Software%20Engineering/Books)
 			- [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Multimedia%20Department/CS391%20-%20Software%20Engineering/Lectures)
