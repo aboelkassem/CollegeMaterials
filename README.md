@@ -4,15 +4,17 @@
  containing lectures, sections, projects, assignments
 ## First Level
 
-- First Term
-   - [ 	CS101 - Introduction to computer science](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/CS101%20-%20Introduction%20to%20computer%20science " 	CS101 - Introduction to computer science")
-   - [ 	EE101 - Electroincs](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/EE101%20-%20Electroincs " 	EE101 - Electroincs")
-   - [ 	HU131 - Business Adminstration](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU131%20-%20Business%20Adminstration " 	HU131 - Business Adminstration")
-   - [HU152 - History of computing](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU152%20-%20History%20of%20computing "HU152 - History of computing")
-   - [MA101 - Mathematics I](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/MA101%20-%20Mathematics%20I "MA101 - Mathematics I")
-   - [PH101 - Physcis](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/PH101%20-%20Physcis "PH101 - Physcis")
-
-- Second Term
+- ### First Term
+	 Code | Course Name | Prerequisites | Included 
+	--- | --- | --- | ---
+	**CS101** | [Introduction to computer science](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/CS101%20-%20Introduction%20to%20computer%20science) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/CS101%20-%20Introduction%20to%20computer%20science)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	**EE101** | [Electroincs](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/EE101%20-%20Electroincs) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/EE101%20-%20Electroincs)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	**HU131** | [Business Adminstration](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU131%20-%20Business%20Adminstration) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU131%20-%20Business%20Adminstration)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	**HU152** | [History of computing](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU152%20-%20History%20of%20computing) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/HU152%20-%20History%20of%20computing)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	**MA101** | [Mathematics I](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/MA101%20-%20Mathematics%20I) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/MA101%20-%20Mathematics%20I)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	**PH101** | [Physcis](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/PH101%20-%20Physcis) | `No Prerequisites` | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/PH101%20-%20Physcis)</p><p>:x: Sections</p> <p>:x: Book</p><p>:x: Sheet</p>
+	
+- ### Second Term
    - [ 	CS141 - Programming Fundamentals](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/CS141%20-%20Programming%20Fundamentals " 	CS141 - Programming Fundamentals")
         - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/CS141%20-%20Programming%20Fundamentals/Lectures " 	Lectures")
        - [ 	Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/CS141%20-%20Programming%20Fundamentals/Sections " 	Sections")
