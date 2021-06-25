@@ -27,26 +27,18 @@
 
 ## Second Level
 
-*  	First Term
-	- [ 	CS201 - Discrete Structure](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure " 	CS201 - Discrete Structure")
-	     - [ 	Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure/Books " 	Books")
-		 - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure/Lectures " 	Lectures")
-	- [CS241 - Object-Oriented Programming](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming "CS241 - Object-Oriented Programming")
-	     - [ 	Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming/book " 	Books")
-		 - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming/Lectures " 	Lectures")
-	 - [ 	IS212 - Databases](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases " 	IS212 - Databases")
-	     - [ 	Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases/Sections " 	Sections")
-		 - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases/Lectures " 	Lectures")
-	 - [ 	IS231 - Systems Analysis and Design](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design " 	IS231 - Systems Analysis and Design")
-	     - [ 	 Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design/Sections " 	Sections")
-		 - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design/Lectures " 	Lectures")
-	 - [ 	IT251 - Data Communication](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication " 	IT251 - Data Communication")
-	     - [ 	 Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication/Sections " 	Sections")
-		 - [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication/Lectures " 	Lectures")
-	 - [MA201 - Mathematics III](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/MA201%20-%20Mathematics%20III/Lectures "MA201 - Mathematics III")
+*  	### First Term
+	Code | Course Name | Prerequisites | Included 
+	--- | --- | --- | ---
+	**CS201** | [Discrete Structure](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure) | [MA102](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/MA102%20-%20Mathematics%20II) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure/Lectures)</p><p>:heavy_check_mark: [Book](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS201%20-%20Discrete%20Structure/Books)</p>
+	**CS241** | [Object-Oriented Programming](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming) | [CS141](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/CS141%20-%20Programming%20Fundamentals) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming/Lectures)</p><p>:heavy_check_mark: [Book](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/CS241%20-%20Object-Oriented%20Programming/book)</p>
+	**IS212** | [Databases](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases) | [IS101](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/IS101%20-%20Foundations%20of%20information%20systems) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases/Lectures)</p><p>:heavy_check_mark: [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS212%20-%20Databases/Sections)</p>
+	**IS231** | [Systems Analysis and Design](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design) | [CS101](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/CS101%20-%20Introduction%20to%20computer%20science) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design/Lectures)</p><p>:heavy_check_mark: [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IS231%20-%20Systems%20Analysis%20and%20Design/Sections)</p>
+	**IT251** | [Data Communication](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication) | [CS101](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/CS101%20-%20Introduction%20to%20computer%20science) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication/Lectures)</p><p>:heavy_check_mark: [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/IT251%20-%20Data%20Communication/Sections)</p>
+	**MA201** | [Mathematics III](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/MA201%20-%20Mathematics%20III/Lectures) | [MA102](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/Second%20Term/MA102%20-%20Mathematics%20II) | [MA101](https://github.com/aboelkassem/CollegeMaterials/tree/master/First%20Level/First%20Term/MA101%20-%20Mathematics%20I) | <p>:heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/First%20Term/MA201%20-%20Mathematics%20III/Lectures)</p>
 	 
 	 
-*  	Second Term
+*  	### Second Term
 	 - [ 	CS211 - Data Structures and Algorithms](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/Second%20Term/CS211%20-%20Data%20Structures%20and%20Algorithms " 	CS211 - Data Structures and Algorithms")
 	 	- [ 	Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/Second%20Term/CS211%20-%20Data%20Structures%20and%20Algorithms/Lectures " 	Lectures")
 		- [ 	Projects](https://github.com/aboelkassem/CollegeMaterials/tree/master/Second%20Level/Second%20Term/CS211%20-%20Data%20Structures%20and%20Algorithms/Projects " 	Projects")
