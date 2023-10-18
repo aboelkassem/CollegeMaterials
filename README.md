@@ -2,6 +2,22 @@
 # CollegeMaterials   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
  This Repository for my college's materials (computer science) Faculty of Computers & Artificial Intelligence - Beni Suef University
  containing lectures, sections, projects, assignments
+
+## Table of content 
+- [First Level](#first-level)
+  * [First Term](#first-term)
+  * [Second Term](#second-term)
+- [Second Level](#second-level)
+  * [First Term](#first-term-1)
+  * [Second Term](#second-term-1)
+- [Third Level](#third-level)
+  * [First Term](#first-term-2)
+    + [Computer Science Department](#computer-science-department)
+    + [Information Systems Department](#information-systems-department)
+    + [Information Technology Department](#information-technology-department)
+    + [Multimedia Department](#multimedia-department)
+
+ 
 ## First Level
 
 - ### First Term
