@@ -16,6 +16,11 @@
     + [Information Systems Department](#information-systems-department)
     + [Information Technology Department](#information-technology-department)
     + [Multimedia Department](#multimedia-department)
+  * [Second Term](#second-term-2)
+    + [Computer Science Department](#computer-science-department-1)
+    + [Information Systems Department](#information-systems-department-1)
+    + [Information Technology Department](#information-technology-department-1)
+    + [Multimedia Department](#multimedia-department-1)
 
  
 ## First Level
