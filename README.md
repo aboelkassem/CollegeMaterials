@@ -73,8 +73,6 @@
 ## Third Level
 
 ### First Term
-Certainly, let's update the table with correct links for the Computer Science Department:
-
 #### Computer Science Department
 
 | Code | Course Name | Prerequisites | Included |
@@ -163,3 +161,17 @@ Certainly, let's update the table with correct links for the Computer Science De
 | IT351  | Computer Networks                      | None          | :heavy_check_mark: [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/IT351%20-%20Computer%20Networks/Books), [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/IT351%20-%20Computer%20Networks/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/IT351%20-%20Computer%20Networks/Sections), [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/IT351%20-%20Computer%20Networks/Sheets) |
 | MM402  | Virtual Reality                        | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/MM402%20-%20Virtual%20Reality/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/MM402%20-%20Virtual%20Reality/Sections), [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/MM402%20-%20Virtual%20Reality/Sheets) |
 | MM441  | Speech Processing                      | None          | :heavy_check_mark: [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/MM441%20-%20Speech%20Processing/Books), [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Multimedia%20Department/MM441%20-%20Speech%20Processing/Lectures) |
+
+## Fourth Level
+
+### First Term
+#### Computer Science Department
+
+| Code   | Course Name                            | Prerequisites | Included |
+|--------|----------------------------------------|---------------|----------|
+| CS431  | Parallel Computation                  | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS431%20-%20Parallel%20Computation/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS431%20-%20Parallel%20Computation/Sections) |
+| CS441  | Compiler Construction                  | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS441%20-%20Compiler%20Construction/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS441%20-%20Compiler%20Construction/Sections), [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS441%20-%20Compiler%20Construction/Books), [Sheets](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS441%20-%20Compiler%20Construction/Sheets), [Handwritten](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS441%20-%20Compiler%20Construction/Handwritten) |
+| CS452  | Computer Vision                        | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS452%20-%20Computer%20Vision/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS452%20-%20Computer%20Vision/Sections), [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS452%20-%20Computer%20Vision/Books), [Handwritten](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS452%20-%20Computer%20Vision/Handwritten) |
+| CS462  | Machine Learning                       | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS462%20-%20Machine%20Learning/Lectures), [Books](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/CS462%20-%20Machine%20Learning/Books) |
+| IT431  | Wireless and Mobile Computing          | None          | :heavy_check_mark: [Lectures](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/IT431%20-%20Wireless%20and%20Mobile%20Computing/Lectures), [Sections](https://github.com/aboelkassem/CollegeMaterials/tree/master/Fourth%20Level/First%20Term/Computer%20Science%20Department/IT431%20-%20Wireless%20and%20Mobile%20Computing/Sections) |
+
